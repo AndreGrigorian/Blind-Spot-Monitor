@@ -90,19 +90,15 @@ https://youtu.be/9JBMQK3UJxU
 
 ### Complete System
 
-![Complete System](images/system.jpg)
+![Complete System](topdown.png)
 
-### Hardware Wiring
+### System Structure
 
-![Hardware](images/hardware.jpg)
+![System Structure](system_structure.png)
 
-### Block Diagram
+### UART Display
 
-![Block Diagram](images/block_diagram.png)
-
-### Prototype in Operation
-
-![Demo](images/demo.jpg)
+![UART](uart_view.png)
 
 
 ---
