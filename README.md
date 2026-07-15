@@ -152,5 +152,3 @@ Blind-Spot-Monitor/
 ECE 425 – Microprocessor Systems  
 California State University, Northridge
 
-GitHub: https://github.com/AndreGrigorian
-
