@@ -103,18 +103,6 @@ https://youtu.be/9JBMQK3UJxU
 
 ---
 
-## Repository Structure
-
-```
-Blind-Spot-Monitor/
-│
-├── src/                 # Source code
-├── images/              # Project photos
-├── README.md
-└── Report.pdf
-```
-
----
 
 ## Future Improvements
 
