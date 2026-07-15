@@ -94,7 +94,7 @@ https://youtu.be/9JBMQK3UJxU
 
 ### System Structure
 
-![System Structure](system_structure.png)
+![System Structure](system_struct.png)
 
 ### UART Display
 
