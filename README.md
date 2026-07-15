@@ -1,6 +1,6 @@
 # Blind Spot Monitor using TM4C123G LaunchPad
 
-> A model-scale automotive blind spot monitoring system built with the **Texas Instruments Tiva™ TM4C123G LaunchPad**, dual ultrasonic sensors, LEDs, and an active buzzer.
+> A model scale automotive blind spot monitoring system built with the **Texas Instruments Tiva™ TM4C123G LaunchPad**, dual ultrasonic sensors, LEDs, and an active buzzer.
 
 [![Demo Video](https://img.shields.io/badge/Watch-Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/9JBMQK3UJxU)
 
@@ -17,11 +17,11 @@ The project was developed as the final project for **ECE 425 – Microprocessor 
 ## Features
 
 - Dual ultrasonic blind spot detection
-- Three-stage warning system
+- Three stage warning system
   - GREEN = Safe
   - YELLOW = Caution
   - RED = Danger
-- Distance-dependent buzzer that increases chirp rate as objects approach
+- Distance dependent buzzer that increases chirp rate as objects approach
 - UART live debugging output
 - Sequential sensor polling to reduce ultrasonic crosstalk
 - Distance calibration for improved real-world accuracy
@@ -73,7 +73,7 @@ A calibration factor was applied to compensate for timing overhead introduced by
 The firmware outputs live diagnostic information over UART, including:
 
 - Left and right measured distances
-- Simple top-down visualization of nearby objects
+- Simple top down visualization of nearby objects
 - Real-time debugging during testing and calibration
 
 ---
